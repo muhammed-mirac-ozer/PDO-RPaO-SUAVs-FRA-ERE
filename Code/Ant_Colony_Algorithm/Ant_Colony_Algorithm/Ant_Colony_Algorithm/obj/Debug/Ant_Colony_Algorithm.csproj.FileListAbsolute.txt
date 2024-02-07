@@ -1,0 +1,8 @@
+C:\Users\kullanıcı\Desktop\C&G\Ant_Colony_Algorithm\Ant_Colony_Algorithm\Ant_Colony_Algorithm\obj\Debug\Ant_Colony_Algorithm.csproj.AssemblyReference.cache
+C:\Users\kullanıcı\Desktop\C&G\Ant_Colony_Algorithm\Ant_Colony_Algorithm\Ant_Colony_Algorithm\obj\Debug\Ant_Colony_Algorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\kullanıcı\Desktop\C&G\Ant_Colony_Algorithm\Ant_Colony_Algorithm\Ant_Colony_Algorithm\obj\Debug\Ant_Colony_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\kullanıcı\Desktop\C&G\Ant_Colony_Algorithm\Ant_Colony_Algorithm\Ant_Colony_Algorithm\bin\Debug\Ant_Colony_Algorithm.exe.config
+C:\Users\kullanıcı\Desktop\C&G\Ant_Colony_Algorithm\Ant_Colony_Algorithm\Ant_Colony_Algorithm\bin\Debug\Ant_Colony_Algorithm.exe
+C:\Users\kullanıcı\Desktop\C&G\Ant_Colony_Algorithm\Ant_Colony_Algorithm\Ant_Colony_Algorithm\bin\Debug\Ant_Colony_Algorithm.pdb
+C:\Users\kullanıcı\Desktop\C&G\Ant_Colony_Algorithm\Ant_Colony_Algorithm\Ant_Colony_Algorithm\obj\Debug\Ant_Colony_Algorithm.exe
+C:\Users\kullanıcı\Desktop\C&G\Ant_Colony_Algorithm\Ant_Colony_Algorithm\Ant_Colony_Algorithm\obj\Debug\Ant_Colony_Algorithm.pdb
